@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) {
 	
 	
-	
+//cevdettsedeff	
 	
 	
 	float sayi1,sayi2,sonuc;
@@ -25,19 +25,19 @@ int main(int argc, char *argv[]) {
 	switch(islem)
 	{
 		case '+':
-			sonuc=sayi1+sayi2;  //toplama iþlemi yapýyoruz.
+			sonuc=sayi1+sayi2;  //toplama iÅŸlemi yapÄ±yoruz.
 			printf("\nSonuc: %f",sonuc);
 			break;
 		case '-':
-			sonuc=sayi1-sayi2;   //çýkartma iþlemi yapýyoruz.
+			sonuc=sayi1-sayi2;   //Ã§Ä±kartma iÅŸlemi yapÄ±yoruz.
 			printf("\nSonuc: %f",sonuc);
 			break;
 		case '/':
-			sonuc=sayi1/sayi2;  //bölme iþlemi yapýyoruz.
+			sonuc=sayi1/sayi2;  //bÃ¶lme iÅŸlemi yapÄ±yoruz.
 			printf("\nSonuc: %f",sonuc);
 			break;
 		case '*':
-			sonuc=sayi1*sayi2;  //çarpma iþlemi yapýyoruz.
+			sonuc=sayi1*sayi2;  //Ã§arpma iÅŸlemi yapÄ±yoruz.
 			printf("\nSonuc: %f",sonuc);
 			break;
 		default: printf("\nHatali islem yaptiniz.");	
